@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 window.addEventListener("load", () => {
     let name = localStorage.getItem("name");
     let desig = localStorage.getItem("desig");
@@ -77,8 +78,7 @@ window.addEventListener("load", () => {
     resAch.textContent = achv;
     let resImg = document.getElementById("resImg");
     resImg.src = picture;
-    
-    window.location.href = "/resume.html";
+    window.location.href = "./milstone-1/index.html";
 });
 // // let print_btn = document.getElementById("print_btn")
 // // print_btn?.addEventListener("click", ()=>{

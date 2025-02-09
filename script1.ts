@@ -98,7 +98,7 @@ window.location.href = "./milstone-1/index.html";
 
 })
 
-// resume.html
+
 
 
 

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 window.addEventListener("load", () => {
     let name = localStorage.getItem("name");
     let desig = localStorage.getItem("desig");

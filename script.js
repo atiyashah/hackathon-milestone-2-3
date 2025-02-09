@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let myName = document.getElementById('name');
 let designa = document.getElementById('desig');
 let phone = document.getElementById('phone');
